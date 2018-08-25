@@ -1,0 +1,22 @@
+{
+  "name": "party",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan Ponce <ryanponce@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.11",
+    "@types/react-dom": "^16.0.7",
+    "parcel-bundler": "^1.9.7",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1",
+    "typestrict": "^1.0.0"
+  }
+}

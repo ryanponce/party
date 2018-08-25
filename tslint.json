@@ -1,0 +1,6 @@
+{
+  "extends": "typesctrict",
+  "linterOptions": {
+    "exclude": ["node_modules/**/*.ts"]
+  }
+}
