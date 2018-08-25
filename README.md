@@ -6,7 +6,7 @@
 
 **Pa**rcel **R**eact **Ty**peScript
 
-This prject contains a barebones React + TypeScript project. It used Parcel as the bundler. The real unique thing included in this starter project is the use of [TypeStrict](https://github.com/krzkaczor/TypeStrict) for the linter.
+This project contains a barebones React + TypeScript project. It used Parcel as the bundler. The real unique thing included in this starter project is the use of [TypeStrict](https://github.com/krzkaczor/TypeStrict) for the linter.
 
 It only contains a single script to run the project, which is `yarn start`. The rest is up to you. You do you.
 
